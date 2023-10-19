@@ -2,8 +2,28 @@
     width: auto;
     height: auto;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #000;
 }
 
-h1 {
+.content {
+    max-width: 960px;
+    margin: auto;
+}
+
+h1,
+h2,
+h3 {
     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #00ddd2;
+}
+
+.recipelink {
+    font-size: 20px;
 }
