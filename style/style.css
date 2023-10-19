@@ -27,3 +27,8 @@ a:hover {
 .recipelink {
     font-size: 20px;
 }
+
+img {
+    height: 512px;
+    width: auto;
+}
